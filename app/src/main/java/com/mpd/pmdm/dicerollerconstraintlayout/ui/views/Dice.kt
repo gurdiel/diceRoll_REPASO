@@ -1,4 +1,4 @@
-package com.mpd.pmdm.dicerollerconstraintlayout
+package com.mpd.pmdm.dicerollerconstraintlayout.ui.views
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
